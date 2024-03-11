@@ -6,13 +6,13 @@ cor padrão do link deverá ser vermelha ( red ) e deverá mudar para limão (le
 quando sobreposta pelo mouse.
 */
 
-    a {
-        color: red;
-    }
+       a {
+           color: red;
+        }
 
-    a:hover {
-        color: lime;
-    }
+        a:hover {
+            color: lime;
+        }
 
 /*
 2. Implemente um código CSS que irá customizar os parágrafos da seguinte
