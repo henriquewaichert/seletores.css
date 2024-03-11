@@ -6,13 +6,13 @@ cor padrão do link deverá ser vermelha ( red ) e deverá mudar para limão (le
 quando sobreposta pelo mouse.
 */
 
-a {
-    color: red;
-}
+    a {
+        color: red;
+    }
 
-a:hover {
-    color: lime;
-}
+    a:hover {
+        color: lime;
+    }
 
 /*
 2. Implemente um código CSS que irá customizar os parágrafos da seguinte
@@ -21,12 +21,12 @@ forma.
 •Parágrafos declarados logo após h1 ficarão em negrito
 */
 
-p {
-    font-family: Arial, Helvetica, sans-serif;
-}
-h1 + p {
-    font-weight: bold;
-}
+    p {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    h1 + p {
+        font-weight: bold;
+    }
 
 /*
 3. Implemente um código CSS para estilizar a classe .destaque da seguinte forma.
@@ -35,14 +35,14 @@ h1 + p {
 •Se atribuída a um <strong> , ficará em vermelho
 */
 
-.destaque {
-    font-family: Arial, Helvetica, sans-serif;
-}
+    .destaque {
+        font-family: Arial, Helvetica, sans-serif;
+    }
 
-p.destaque {
-    font-weight: bold;
-}
+    p.destaque {
+        font-weight: bold;
+    }
 
-strong.destaque {
-    color: red;
-}
+    strong.destaque {
+        color: red;
+    }
